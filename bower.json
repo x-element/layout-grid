@@ -1,0 +1,13 @@
+{
+  "name": "layout-grid",
+  "description": "layout grid",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0"
+  },
+  "keywords": [
+    "web-components",
+    "css",
+    "layout",
+    "grid"
+  ]
+}
